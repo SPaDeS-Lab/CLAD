@@ -44,7 +44,7 @@ CLAD is implemented as a set of custom chaincode modules on Hyperledger Fabric, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-org/clad.git
+   git clone https://github.com/SPaDeS-Lab/clad.git
    cd clad
    ```
 
